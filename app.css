@@ -23,7 +23,8 @@
 }
 
 .container h1 img {
-    width: 60px;
+    width: 160px;
+    margin-bottom: 20px;
 }
 
 .container button img {
